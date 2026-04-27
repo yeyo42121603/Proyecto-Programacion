@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1777322113 source:c:\users\diego\onedrive\desktop\progra\progra proyecto\main.cpp
+	<mysql.h>
+	<iostream>
+
